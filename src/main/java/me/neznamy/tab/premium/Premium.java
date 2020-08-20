@@ -10,7 +10,7 @@ public class Premium {
 	public static boolean alignTabsuffix;
 
 	public static boolean is() {
-		return false;
+		return true;
 	}
 
 	public static void loadPremiumConfig() throws Exception {
